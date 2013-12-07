@@ -6,7 +6,7 @@
 # catalog-version 1.0c
 Name:		texlive-lexikon
 Version:	1.0c
-Release:	4
+Release:	5
 Summary:	Macros for a two language dictionary
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lexikon
