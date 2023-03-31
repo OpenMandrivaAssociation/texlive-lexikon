@@ -1,6 +1,6 @@
 Name:		texlive-lexikon
 Version:	17364
-Release:	1
+Release:	2
 Summary:	Macros for a two language dictionary
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lexikon
