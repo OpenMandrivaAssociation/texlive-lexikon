@@ -3,7 +3,7 @@ Version:	17364
 Release:	2
 Summary:	Macros for a two language dictionary
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lexikon
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lexikon
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lexikon.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lexikon.doc.r%{version}.tar.xz
